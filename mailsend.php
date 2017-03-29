@@ -1,5 +1,5 @@
 <?php
-require 'PHPMailer/PHPMailerAutoload.php';
+require 'whirldata/PHPMailerAutoload.php';
 
 $mail = new PHPMailer;
 
